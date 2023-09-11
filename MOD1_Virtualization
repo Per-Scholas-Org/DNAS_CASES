@@ -1,0 +1,29 @@
+Modular 1, Case Challenge - Virtualization
+
+XYZ Corporation is a newly formed small company that provides Financial Services to other Small Businesses.
+They currently have 20 employeess located in Midtown Manhattan, NYC and have two additional satellite offices 
+in Newark, NJ with 5 employees and White Plains, NY with 3 employees, and two remote employees working from 
+their home offices.
+
+You are tasked with setting up an on-premise server for XYZ Corporation in Midtown Manhattan, two satellite
+servers in the Newark and White Plains offices, as well as the remote employee workstations, ensuring
+connectivity remains secure as employees access the centralized database located on the Server in
+Midtown Manhattan. You will setup a Prototype with one on-premise Virtual Server and one remote Virtual 
+Desktop. You can choose the Network Operating System (NOS) and Desktop Operating System (DOS), and be prepared
+to explain your reasons for choose what you chose for this Case Challenge.
+
+Deliverables:
+1. Create a separate Repository to save your Case Challenge work.
+2. Create an On-Premise Virtual Server (must accommodate current employees with potential growth).
+3. Install/configure the remote Desktop to your On-Premise Virtual Server.
+4. Explain the steps you go through to create these environments.
+5. Explain the process you used in choosing the NOS and DOS for this Case Challenge.
+6. Be prepared to present your solution to XYZ executives.
+
+RUBRIC - SBAs:
+* Installed/configured On-Premise Virtual Server (setup hardware, virtual environment, and network operating system)
+* Installed/configured off-site/remote Virtual Desktop (Linux, Windows 10/11, or MacOS)
+* Authenticated remote Virtual Desktop to On-Premise Virtual Server (map a network drive)
+* Explained the steps to complete these requirements.
+* Explain the process you used in choosing the NOS and DOS for this Case Challenge
+* Present your solution to XYZ executives (narrated presentation software)
